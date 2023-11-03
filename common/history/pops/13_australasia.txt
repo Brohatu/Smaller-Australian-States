@@ -32,7 +32,7 @@
 		region_state:NSW = {
 			create_pop = {
 				culture = aborigine
-				size = 1559
+				size = 15559
 			}
 			create_pop = {
 				culture = australian
