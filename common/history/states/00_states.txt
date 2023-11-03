@@ -1216,7 +1216,6 @@ STATES = {
 		add_homeland = australian
 		add_homeland = aborigine		
 	}
-
 	s:STATE_EAST_VICTORIA = {
 		create_state = {
 			country = c:NSW
@@ -1228,7 +1227,6 @@ STATES = {
 		add_homeland = australian
 		add_homeland = aborigine
 	}
-
 	s:STATE_TASMANIA = {
 		create_state = {
 			country = c:TAS
@@ -1241,7 +1239,6 @@ STATES = {
 		add_homeland = aborigine		
 	
 	}
-
 	s:STATE_QUEENSLAND = {
 		create_state = {
 			country = c:NSW
